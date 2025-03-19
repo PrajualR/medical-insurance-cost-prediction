@@ -30,6 +30,7 @@ charges: Actual medical costs (target variable).
 - seaborn
 - streamlit
 - pickle
+- joblib
 
 Run the Streamlit app using:
     ```bash
